@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "787509909248",
+    "project_id": "sinstagram-a11fc",
+    "storage_bucket": "sinstagram-a11fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787509909248:android:4f14852be08e1c4ed945e5",
+        "android_client_info": {
+          "package_name": "org.kpu.sinstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787509909248-ejc09rdenvbh1brbi17p6jgi8ktv5aik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.kpu.sinstagram",
+            "certificate_hash": "f72934debc8d2ba1bb0a4a8921977d689fa9c8e0"
+          }
+        },
+        {
+          "client_id": "787509909248-4bv2r4vckmvd4dhagct0eu338dhl64af.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUr-GjhtkevGH0v52pXQ1gg7xCSY959xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787509909248-4bv2r4vckmvd4dhagct0eu338dhl64af.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

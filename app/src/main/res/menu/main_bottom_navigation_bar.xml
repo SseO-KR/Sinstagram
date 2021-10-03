@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/bn_bar_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="" />
+
+    <item android:id="@+id/bn_bar_search"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title=""/>
+
+    <item android:id="@+id/bn_bar_profile"
+        android:icon="@drawable/ic_baseline_assignment_ind_24"
+        android:title=""/>
+</menu>
